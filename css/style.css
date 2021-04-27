@@ -1,0 +1,89 @@
+
+header{
+text-align: center;
+margin: 60px;
+font-family: 'Courgette', cursive;
+font-weight: bold;
+font-size: 50px;
+background-color: WhiteSmoke;
+}
+
+
+
+body{
+
+    font-size: 25px;
+    font-family: 'Courgette', cursive;
+
+    background-image: url(../NX7PC.jpg);
+
+
+
+}
+
+
+#table{
+    float: left;  
+    background-color:RGBA(211, 211, 211, 0.548);
+    border-collapse: collapse;
+    width: 100%;
+    color:WhiteSmoke;
+    border-color:WhiteSmoke ;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+
+#form{
+
+    background-color: RGBA(211, 211, 211, 0.548)
+    ;
+    width: 30%;
+}
+
+
+
+table th{
+    background-color: RGB(39, 39, 39)
+    ;
+}
+
+footer{
+
+    text-align: center;
+    background-color:WhiteSmoke ;
+    margin-top: 300px;
+}
+input{
+    font-size: 25px;
+    font-family: 'Courgette', cursive;
+    
+
+}
+
+#user{
+    margin-bottom: 20px;
+    justify-content: center;
+    font-weight: bold;
+    border-radius: 12px;
+
+}
+#button{
+
+    border-radius: 12%;
+    background-color: RGB(39, 39, 39);
+    color: WhiteSmoke;
+    margin-bottom: 20px;
+    justify-content: center;
+    font-weight: bold;
+
+
+}
+
+#type{
+    font-size: 30px;
+    font-family: 'Courgette', cursive;
+    margin-bottom: 20px;
+    border-radius: 12px;
+    justify-content: center;
+}
